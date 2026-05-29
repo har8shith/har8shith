@@ -1,6 +1,6 @@
 # Hey! 
 
-My name is Harshith. [cite_start]I am a Software Engineer living in India[cite: 3]. 
+My name is Harshith. I am a Software Engineer living in India. 
 
 > "The persistent fear of living an ordinary, mundane, or unremarkable life."
 > — **Koinophobia**
