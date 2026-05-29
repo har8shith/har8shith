@@ -5,9 +5,12 @@ My name is Harshith. I am a Software Engineer living in India.
 > "The persistent fear of living an ordinary, mundane, or unremarkable life."
 > — **Koinophobia**
 
+
 ## 📊  My GitHub Analytics
 
-![Harshith's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=har8shith&layout=compact&theme=monokai&langs_count=6&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=har8shith&layout=compact&theme=monokai&langs_count=6&hide_border=true" alt="Harshith's Most Used Languages" />
+</p>
 
 ## 🛠  Technologies and Tools
 
