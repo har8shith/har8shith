@@ -1,60 +1,67 @@
-## Hey 👋, I'm Harshith!
+# Hello ! 
 
-Hey y'all! I’m a software developer and competitive programmer passionate about building secure and user-friendly applications. I have experience with Node.js, Express.js, and REST APIs, and I'm currently pursuing a B.Tech in Computer Science at IIIT Lucknow.
+My name is Harshith. I am a Software Engineer living in India. 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
+## 🛠  Technologies and tools
 
+<a name="learning-now"></a>
 
-### 🧐 More About Me:
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 
-- 🔭 Currently learning **DSA** and **Backend Development**
-- 💬 Ask me about **React**, **MongoDB**
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/banothu-harshith10/)
-- 📝 Check out my [Resume](https://drive.google.com/file/d/11-i0APi2jTbcjNYKwVes0F3q3SpyVYlx/view?usp=sharing)
+<a name="learning-next"></a>
 
+## 📖  What I am currently learning / improving on
 
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 
-### 👨‍💻 Coding Profiles:
+## 👾  What I am interested in learning at some point
 
-<p>
-  <a href="https://codeforces.com/profile/har10shith">
-    <img height="32" src="https://cdn-1.webcatalog.io/catalog/codeforces/codeforces-icon-filled-256.png?v=1675595107494" alt="Codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/ammiee" target="_blank">
-    <img height="32" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" />
-  </a>
-  <a href="https://leetcode.com/u/The_Redeemer/" target="_blank">
-    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" />
-  </a>
-</p>
+[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
 
+## 🔍  Where to find me
 
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/banothu-harshith10/)
 
-### 🔨 Languages and Tools:
-
-<p>
-<img src="https://tse2.mm.bing.net/th?id=OIP.5Y5sc3cKItDAGvITEqCNygHaHa&r=0&pid=Api" height="42px" alt="C++"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" height="42px" alt="Java"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" height="42px" alt="Python"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" height="42px" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" height="42px" alt="CSS"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" height="42px" alt="ReactJS"/>
-<img src="https://tse3.mm.bing.net/th?id=OIP.XQky1N0XySaAZjWJMmAgXgHaED&pid=Api" height="42px" alt="Express.js"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" height="42px" alt="Node.js"/>
-<img src="https://tse4.mm.bing.net/th?id=OIP.Al8weKZSstHJRmzugzj01QHaF7&pid=Api" height="42px" alt="MongoDB"/>
-<img src="https://tse4.mm.bing.net/th?id=OIP.JVt34lGxmm0GAGNNL_mwBgHaHa&pid=Api" height="42px" alt="SQL"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" height="42px" alt="Spring"/>
-
-
-</p>
-
-
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img alt="Harshith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=har8shith&show_icons=true&theme=transparent&hide_border=true" width="49%" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=har8shith&layout=compact&theme=transparent&hide_border=true" width="38%" />
-</div>
-
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
