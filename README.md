@@ -1,6 +1,6 @@
 # Hey! 
 
-My name is Harshith. I am a Software Engineer living in India. 
+My name is Harshith. [cite_start]I am a Software Engineer living in India[cite: 3]. 
 
 > "The persistent fear of living an ordinary, mundane, or unremarkable life."
 > — **Koinophobia**
@@ -70,5 +70,4 @@ My name is Harshith. I am a Software Engineer living in India.
 [<img src="https://img.shields.io/badge/Secrets_Management-282C34?logo=hashicorpvault&logoColor=FF3E00" alt="Secrets Management" title="Secrets Management (ESO / AWS Secrets Manager)" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
-
 
