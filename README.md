@@ -5,9 +5,9 @@ My name is Harshith. [cite_start]I am a Software Engineer living in India[cite: 
 > "The persistent fear of living an ordinary, mundane, or unremarkable life."
 > — **Koinophobia**
 
-## 🛠  Technologies and Tools
+##  Technologies and Tools
 
-### 💻 Programming Languages
+### Programming Languages
 [<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" />][tech_tools_anchor]
@@ -20,7 +20,7 @@ My name is Harshith. [cite_start]I am a Software Engineer living in India[cite: 
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
-### 🌐 Web Development
+### Web Development
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
@@ -43,7 +43,7 @@ My name is Harshith. [cite_start]I am a Software Engineer living in India[cite: 
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
 
-### ⚙️ Systems & Infrastructure (DevOps)
+### Systems & Infrastructure (DevOps)
 [<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux / Unix" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />][tech_tools_anchor]
@@ -60,7 +60,7 @@ My name is Harshith. [cite_start]I am a Software Engineer living in India[cite: 
 &nbsp;
 [<img src="https://img.shields.io/badge/CI/CD_Pipelines-282C34?logo=githubactions&logoColor=2088FF" alt="CI/CD Pipelines" title="CI/CD" height="25" />][tech_tools_anchor]
 
-### 🔒 Security & Authentication
+### Security & Authentication
 [<img src="https://img.shields.io/badge/JWT-282C34?logo=jsonwebtokens&logoColor=000000" alt="JWT logo" title="JWT" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/OAuth-282C34?logo=oauth&logoColor=EB5424" alt="OAuth logo" title="OAuth" height="25" />][tech_tools_anchor]
@@ -70,22 +70,5 @@ My name is Harshith. [cite_start]I am a Software Engineer living in India[cite: 
 [<img src="https://img.shields.io/badge/Secrets_Management-282C34?logo=hashicorpvault&logoColor=FF3E00" alt="Secrets Management" title="Secrets Management (ESO / AWS Secrets Manager)" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
-
-## 🧠 Core Computer Science Concepts
-* [cite_start]**Data Structures & Algorithms (DSA)** [cite: 11]
-* [cite_start]**Object-Oriented Programming (OOPs)** [cite: 11]
-* [cite_start]**Operating Systems (OS)** [cite: 11]
-* [cite_start]**Software Engineering Principles** [cite: 11]
-* [cite_start]**Computer Networks (CN)** [cite: 11]
-
-## 🤝 Soft Skills & Professional Attributes
-* [cite_start]**Problem-solving** (Expert on Codeforces, Knight on LeetCode) [cite: 37, 38, 49]
-* [cite_start]**Collaboration & Leadership** (Mentored 200+ students across campus clubs) [cite: 49, 52, 54]
-* [cite_start]**Adaptability & Ownership Mindset** [cite: 49]
-* [cite_start]**Curiosity to Learn** [cite: 49]
-
-## 🔍 Where to find me
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/banothu-harshith10/)
 
 [tech_tools_anchor]: #hey-
