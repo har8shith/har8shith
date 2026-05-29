@@ -5,13 +5,6 @@ My name is Harshith. I am a Software Engineer living in India.
 > "The persistent fear of living an ordinary, mundane, or unremarkable life."
 > — **Koinophobia**
 
-
-## 📊  My GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=har8shith&layout=compact&theme=monokai&langs_count=6&hide_border=true" alt="Harshith's Most Used Languages" />
-</p>
-
 ## 🛠  Technologies and Tools
 
 ### 💻 Programming Languages
@@ -78,21 +71,4 @@ My name is Harshith. I am a Software Engineer living in India.
 &nbsp;
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
 
-## 🧠 Core Computer Science Concepts
-* **Data Structures & Algorithms (DSA)**
-* **Object-Oriented Programming (OOPs)**
-* **Operating Systems (OS)**
-* **Software Engineering Principles**
-* **Computer Networks (CN)**
 
-## 🤝 Soft Skills & Professional Attributes
-* **Problem-solving** (Expert on Codeforces, Knight on LeetCode)
-* **Collaboration & Leadership** (Mentored 200+ students across campus clubs)
-* **Adaptability & Ownership Mindset**
-* **Curiosity to Learn**
-
-## 🔍 Where to find me
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/banothu-harshith10/)
-
-[tech_tools_anchor]: #hey-
