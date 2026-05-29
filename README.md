@@ -1,67 +1,90 @@
-# Hello ! 
+# Hey! 
 
 My name is Harshith. I am a Software Engineer living in India. 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Koinophobia)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 🛠  Technologies and tools
+## 🛠  Technologies and Tools
 
-<a name="learning-now"></a>
-
+### 💻 Programming Languages
+[<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=ED8B00" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
+
+### 🌐 Web Development
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React.js logo" title="React.js" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Spring_Boot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Tailwind_CSS-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/REST_APIs-282C34?logo=postman&logoColor=FF6C37" alt="REST APIs" title="REST APIs" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
 
-<a name="learning-next"></a>
+### ⚙️ Systems & Infrastructure (DevOps)
+[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux / Unix" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonwebservices&logoColor=FF9900" alt="AWS logo" title="AWS" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Pulumi_Iac-282C34?logo=pulumi&logoColor=8A3391" alt="Pulumi logo" title="Pulumi (IaC)" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CI/CD_Pipelines-282C34?logo=githubactions&logoColor=2088FF" alt="CI/CD Pipelines" title="CI/CD" height="25" />][tech_tools_anchor]
 
-## 📖  What I am currently learning / improving on
+### 🔒 Security & Authentication
+[<img src="https://img.shields.io/badge/JWT-282C34?logo=jsonwebtokens&logoColor=000000" alt="JWT logo" title="JWT" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/OAuth-282C34?logo=oauth&logoColor=EB5424" alt="OAuth logo" title="OAuth" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Access_Control-282C34?logo=amazoniam&logoColor=FF9900" alt="Access Control" title="Access Control / IAM" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Secrets_Management-282C34?logo=hashicorpvault&logoColor=FF3E00" alt="Secrets Management" title="Secrets Management (ESO / AWS Secrets Manager)" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
 
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+## 🧠 Core Computer Science Concepts
+* [cite_start]**Data Structures & Algorithms (DSA)** [cite: 11]
+* [cite_start]**Object-Oriented Programming (OOPs)** [cite: 11]
+* [cite_start]**Operating Systems (OS)** [cite: 11]
+* [cite_start]**Software Engineering Principles** [cite: 11]
+* [cite_start]**Computer Networks (CN)** [cite: 11]
 
-## 👾  What I am interested in learning at some point
+## 🤝 Soft Skills & Professional Attributes
+* [cite_start]**Problem-solving** (Expert on Codeforces, Knight on LeetCode) [cite: 37, 38, 49]
+* [cite_start]**Collaboration & Leadership** (Mentored 200+ students across campus clubs) [cite: 49, 52, 54]
+* [cite_start]**Adaptability & Ownership Mindset** [cite: 49]
+* [cite_start]**Curiosity to Learn** [cite: 49]
 
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
-
-## 🔍  Where to find me
+## 🔍 Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/banothu-harshith10/)
 
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+[tech_tools_anchor]: #hey-
