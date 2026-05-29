@@ -71,3 +71,21 @@ My name is Harshith. [cite_start]I am a Software Engineer living in India[cite: 
 &nbsp;
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
 
+## 🧠 Core Computer Science Concepts
+* [cite_start]**Data Structures & Algorithms (DSA)** [cite: 11]
+* [cite_start]**Object-Oriented Programming (OOPs)** [cite: 11]
+* [cite_start]**Operating Systems (OS)** [cite: 11]
+* [cite_start]**Software Engineering Principles** [cite: 11]
+* [cite_start]**Computer Networks (CN)** [cite: 11]
+
+## 🤝 Soft Skills & Professional Attributes
+* [cite_start]**Problem-solving** (Expert on Codeforces, Knight on LeetCode) [cite: 37, 38, 49]
+* [cite_start]**Collaboration & Leadership** (Mentored 200+ students across campus clubs) [cite: 49, 52, 54]
+* [cite_start]**Adaptability & Ownership Mindset** [cite: 49]
+* [cite_start]**Curiosity to Learn** [cite: 49]
+
+## 🔍 Where to find me
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/banothu-harshith10/)
+
+[tech_tools_anchor]: #hey-
