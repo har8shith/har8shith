@@ -1,7 +1,8 @@
 # Hey! 
 
 My name is Harshith. I am a Software Engineer living in India. 
-"KOINOPHOBIA"
+> "The persistent fear of living an ordinary, mundane, or unremarkable life."
+> — **Koinophobia**
 
 ## 🛠  Technologies and Tools
 
