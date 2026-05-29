@@ -1,8 +1,7 @@
 # Hey! 
 
 My name is Harshith. I am a Software Engineer living in India. 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Koinophobia)]
+"KOINOPHOBIA"
 
 ## 🛠  Technologies and Tools
 
